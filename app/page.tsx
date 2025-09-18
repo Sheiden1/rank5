@@ -156,7 +156,7 @@ export default function HomePage() {
       <footer className="border-t bg-card py-16">
         <div className="container mx-auto px-4 text-center">
           <p className="text-muted-foreground text-lg">
-            © 2025 Sheiden Development Studio
+            © 2025 Sheiden Development Studios
           </p>
         </div>
       </footer>
