@@ -6,7 +6,7 @@ const rankingData = [
   {
     position: 1,
     title: "Mijumario",
-    subtitle: "O mais burro de todos",
+    subtitle: "O rei da burrice",
     icon: Crown,
     color: "from-cyan-500 to-cyan-700",
     banners: [
@@ -31,7 +31,7 @@ const rankingData = [
     banners: [
       {
         title: "Custo-Benefício Superior",
-        description: "Vende os melhores tenis e artigos chineses do gc, porém o nível Quociente de Inteligência beira os 60 pontos",
+        description: "Vende os melhores tenis e artigos chineses do gc, porém o nível quociente de inteligência (qi) beira os 60 pontos",
       },
       {
         title: "Não sei o que por aqui",
@@ -48,7 +48,7 @@ const rankingData = [
     banners: [
       {
         title: "Versatilidade Única",
-        description: "Adapta-se a qualquer necessidade de burrice, mantendo a genialidade no quesito sou burro por que quero ",
+        description: "Adapta-se a qualquer necessidade de burrice, mantendo a genialidade no quesito sou burro por que quero e por que posso. ",
       },
       {
         title: "Presidio do Hytalo Santos",
