@@ -48,7 +48,7 @@ const rankingData = [
     banners: [
       {
         title: "Versatilidade Única",
-        description: "Adapta-se a qualquer necessidade de burrice, mantendo a genialidade no quesito "sou burro por que quero" ",
+        description: "Adapta-se a qualquer necessidade de burrice, mantendo a genialidade no quesito sou burro por que quero" ",
       },
       {
         title: "Presidio do Hytalo Santos",
