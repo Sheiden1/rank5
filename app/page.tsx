@@ -13,7 +13,7 @@ const rankingData = [
       {
         title: "Performance Excepcional",
         description:
-          "Supera todos os concorrentes em burrice, falta de cognição, entendimento e deficiência mental com resultados 40% superiores aos demais ranqueados.",
+          "No quesito fundamental da burrice, alcança a excelência. Deixa para trás todos os concorrentes ao apresentar uma deficiência mental 40% mais pura e concentrada, um resultado que fala por si só.",
       },
       {
         title: "Inovação Constante",
