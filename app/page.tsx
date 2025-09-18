@@ -34,8 +34,8 @@ const rankingData = [
         description: "Vende os melhores tenis e artigos chineses do gc, porém o nível quociente de inteligência (qi) beira os 60 pontos",
       },
       {
-        title: "Não sei o que por aqui",
-        description: "No fim das contas é um cara gente boa.",
+        title: "Diva?",
+        description: "Se acha melhor de diva que grandthi e milk, mas apanha pra diva do cafajeste. Fazendo estar em segundo colocado",
       },
     ],
   },
