@@ -109,7 +109,7 @@ export default function HomePage() {
               Descubra os mais burros da história do Grand Chase na integra!
             </p>
             <Button size="lg" className="text-lg px-8 py-4 bg-primary hover:bg-primary/90 shadow-lg shadow-primary/25">
-              Explorar Ranking
+              Helly é gostoso
             </Button>
           </div>
         </div>
@@ -119,7 +119,7 @@ export default function HomePage() {
       {/* Rankings Section */}
       <main className="container mx-auto px-4 py-20">
         <div className="mb-16 text-center">
-          <h2 className="mb-4 text-4xl font-bold text-foreground md:text-5xl">Rankings Detalhados</h2>
+          <h2 className="mb-4 text-4xl font-bold text-foreground md:text-5xl">Detalhe dos rankings/h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
             Critério: Burrice! (Não estamos falando de gameplay)
           </p>
@@ -136,10 +136,10 @@ export default function HomePage() {
       <section className="relative bg-gradient-to-r from-primary/20 via-secondary/20 to-accent/20 py-20 border-y border-border">
         <div className="container mx-auto px-4 text-center">
           <h2 className="mb-6 text-4xl font-bold text-foreground md:text-5xl">
-            Quer saber mais sobre nossos critérios?
+            Quer saber mais sobre nossos critérios? @dantaz01 no instagram
           </h2>
           <p className="mb-8 text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Conheça nossa metodologia detalhada e como avaliamos cada item do ranking
+            KKKKKKKKKKKKKKKKKKKKKKKKKKKK
           </p>
           <Button
             variant="secondary"
