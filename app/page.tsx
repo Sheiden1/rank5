@@ -69,7 +69,7 @@ const rankingData = [
       },
       {
         title: "Gente boa, faz mal a ninguém",
-        description: "As vezes a sua deficiência se prova genial. É um cara gente boa",
+        description: "As vezes a sua deficiência se prova genial. Ele sugeriu tirar a invisiblidade da skill invisibilidade do D.A KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
       },
     ],
   },
