@@ -119,7 +119,7 @@ export default function HomePage() {
       {/* Rankings Section */}
       <main className="container mx-auto px-4 py-20">
         <div className="mb-16 text-center">
-          <h2 className="mb-4 text-4xl font-bold text-foreground md:text-5xl">Detalhe dos rankings/h2>
+          <h2 className="mb-4 text-4xl font-bold text-foreground md:text-5xl">Detalhe dos rankings</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
             Critério: Burrice! (Não estamos falando de gameplay)
           </p>
