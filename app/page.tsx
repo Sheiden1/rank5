@@ -41,18 +41,18 @@ const rankingData = [
   },
   {
     position: 3,
-    title: "Badalabel",
+    title: "Fayterzeru",
     subtitle: "Qualidade reconhecida",
     icon: Award,
     color: "from-emerald-500 to-emerald-700",
     banners: [
       {
         title: "Versatilidade Única",
-        description: "Adapta-se a qualquer necessidade de burrice, mantendo a genialidade no quesito sou burro por que quero e por que posso. ",
+        description: "Pensamento intrusivo e burrice adaptada. Em todos os contextos consegue ser o mais burro da ocasião, é uma fusão entre JAMF E Jirachi, mas ainda longe do ápice da burrice de Mijumario ",
       },
       {
-        title: "Presidio do Hytalo Santos",
-        description: "Talvez esteja preso atualmente com Hytalo Santos, P. Diddy e Robinho",
+        title: "JIN",
+        description: "Acho que poucos usuários de jin não sofrem da maldição do retardo mental cronico",
       },
     ],
   },
